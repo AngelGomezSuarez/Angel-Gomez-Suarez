@@ -11,6 +11,12 @@ Portafolio web personal orientado a presentar mi perfil como desarrollador web, 
 
 El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
 
+Fork creado por Mario Parada
+
+Estamos en examen con Jesus Arcis
+
+El examen es de GitHub 
+
 ## Características
 
 - Diseño responsive para ordenadores, tabletas y dispositivos móviles.
