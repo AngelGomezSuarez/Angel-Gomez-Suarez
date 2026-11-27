@@ -11,11 +11,11 @@ Portafolio web personal orientado a presentar mi perfil como desarrollador web, 
 
 El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
 
-Fork creado por Mario Parada
+Fork creado por Mario Parada Cañas.
 
-Estamos en examen con Jesus Arcis
+Estamos en examen con Jesus Arcis.
 
-El examen es de GitHub 
+El examen es de GitHub .
 
 ## Características
 
@@ -114,7 +114,7 @@ https://jesusarcis.github.io/jesus/
 - [x] Navegación móvil y animaciones.
 - [x] Indicadores de habilidades y tarjetas de proyectos.
 - [x] Formulario de contacto con simulación de envío.
-- [ ] Integrar un servicio real de envío de mensajes, como Formspree o EmailJS.
+- [x] Integrar un servicio real de envío de mensajes, como Formspree o EmailJS.
 - [ ] Sustituir los enlaces de ejemplo por enlaces reales a proyectos y perfiles.
 - [ ] Actualizar los datos de contacto de ejemplo.
 - [ ] Revisar accesibilidad, rendimiento y posicionamiento SEO.
